@@ -129,6 +129,16 @@ body {
   font-size: 1rem;
 }
 
+.btn:hover {
+  background-color: var(--violet-blue);
+  cursor: pointer;
+}
+
+.btn:active {
+  background-color: var(--light-slate-blue);
+  cursor: pointer;
+}
+
 .attribution {
   font-size: 12px;
   text-align: center;
